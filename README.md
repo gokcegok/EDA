@@ -1,5 +1,9 @@
 # EDA
-Exploratory Data Analysis
+# Exploratory Data Analysis
+
+This script contains functions that can be used for exploratory data analysis.
+
+Required libraries: pandas, numpy, matplotlib, seaborn
 
 Functions: 
 
